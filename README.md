@@ -1,7 +1,7 @@
 ky_pic
 =============
 
-ky raw picture for KMS-A/K/Q/S
+ky raw picture for KMS-A/K/Q/S/U
 
 Need pip
 <pre><code>pip install Pillow</code></pre>
